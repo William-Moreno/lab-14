@@ -43,6 +43,6 @@ Estimate of time needed to complete:  10 miuntes
 
 Start time: 6:40pm
 
-Finish time: pm
+Finish time: 6:56pm
 
-Actual time needed to complete:  minutes
+Actual time needed to complete:  16minutes
